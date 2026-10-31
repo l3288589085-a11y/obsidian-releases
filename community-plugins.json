@@ -68115,5 +68115,12 @@
     "author": "reiuyuu",
     "description": "Create multi-column layouts with callout. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "reiuyuu/obsidian-columns-callout"
+  },
+  {
+    "id": "remote-sync",
+    "name": "Remote Sync",
+    "author": "l3288589085-a11y",
+    "description": "Two-way incremental vault sync with a server you host yourself: sign in with an account, changed files sync automatically, and conflicts never lose data.",
+    "repo": "l3288589085-a11y/obsidian-remote-sync"
   }
 ]
